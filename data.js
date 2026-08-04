@@ -71,6 +71,12 @@ const toolSections = [
     title: "🌐 Web Tools",
     tools: [
       {
+        name: "SteamVaults Market Fee Calculator",
+        description: "Estimate what a Steam Market buyer pays and seller receives using adjustable Steam, game, and publisher fee rates.",
+        icon: "fas fa-calculator",
+        link: "https://steamvaults.org/tools/steam-market-fee-calculator"
+      },
+      {
         name: "JSON Server",
         description: "Create a fake API based on JSON files for rapid prototyping.",
         icon: "fas fa-server",
