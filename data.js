@@ -71,6 +71,12 @@ const toolSections = [
     title: "🌐 Web Tools",
     tools: [
       {
+        name: "KupitSledovatelov.sk Growth Planner",
+        description: "Free Slovak-language calculator for net follower growth and required daily/weekly pace; no account or profile lookup.",
+        icon: "fas fa-calculator",
+        link: "https://kupitsledovatelov.sk/tools/follower-growth"
+      },
+      {
         name: "JSON Server",
         description: "Create a fake API based on JSON files for rapid prototyping.",
         icon: "fas fa-server",
