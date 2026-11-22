@@ -50,7 +50,7 @@ const toolSections = [
       },
       {
         name: "PDF Fan: Converter imagem em PDF",
-        description: "Combine JPG, PNG and WebP photos into one PDF. Arrange the photos before exporting in the Brazilian Portuguese interface.",
+        description: "Combine JPG and PNG photos into one PDF. Arrange the photos before exporting in the Brazilian Portuguese interface.",
         icon: "fas fa-file-pdf",
         link: "https://pdf.fan/pt-br/imagem-para-pdf/"
       }
